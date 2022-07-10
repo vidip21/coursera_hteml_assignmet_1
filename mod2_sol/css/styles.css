@@ -1,10 +1,22 @@
 body{
-    background-color: rgb(0, 0, 78);
     font-family: cursive;
+    background-color: rgb(0, 0, 78);
 }
 
 h1 { color: rgb(4, 111, 0);
 text-align: center;}
+
+#chicken{
+    background-color: pink;
+}
+
+#beef{
+    background-color: yellow;
+}
+
+#sushi{
+    background-color: orange;
+}
 
 section{
     position: relative;
